@@ -9,7 +9,7 @@
   <style>
     body {
       background-color: #0e0e10;
-      background-image: url('https://www.transparenttextures.com/patterns/asfalt-dark.png');
+      background-image: url('"C:\Users\USER\Downloads\paul.jpg"');
       background-size: cover;
     }
 
